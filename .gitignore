@@ -1,3 +1,6 @@
 data/*
 Part-2/data/*
 Part-2/training.csv
+Part-2/preprocessed-75.csv
+Part-2/preprocessed-65.csv
+Part-2/preprocessed-50.csv
